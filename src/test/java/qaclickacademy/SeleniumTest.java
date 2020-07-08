@@ -12,6 +12,13 @@ public class SeleniumTest {
 		System.out.println("Browser Automation1");
 		System.out.println("Browser Automation2");
 		System.out.println("Browser Automation3");
+		
+		//changes by x
+		
+		System.out.println("Browser Automation4");
+		System.out.println("Browser Automation5");
+		System.out.println("Browser Automation6");
+		
 
 		
 	}

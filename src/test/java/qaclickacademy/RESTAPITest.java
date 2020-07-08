@@ -9,6 +9,8 @@ public class RESTAPITest {
 	public void postJira() {
 		
 		System.out.println("POST JIRA");
+		System.out.println("POST JIRA1");
+		System.out.println("POST JIRA2");
 
 	}
 	
