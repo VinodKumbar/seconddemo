@@ -19,4 +19,17 @@ public class AppiumTest {
 
 
 	}
-}
+	
+	@Test
+	public void nativeApps1() {
+		
+		System.out.println("Androis Native Apps");
+		}
+	
+	@Test
+	public void iOSApps2() {
+		
+		System.out.println("IOS Apps");
+
+		}
+	}
