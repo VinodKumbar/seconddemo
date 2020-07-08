@@ -9,6 +9,9 @@ public class SeleniumTest {
 	public void browserAutomation() {
 		
 		System.out.println("Browser Automations");
+		System.out.println("Browser Automation1");
+		System.out.println("Browser Automation2");
+		System.out.println("Browser Automation3");
 
 		
 	}
