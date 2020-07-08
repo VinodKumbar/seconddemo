@@ -40,5 +40,14 @@ public class SeleniumTest {
 
 		
 	}
+	@Test
+	public void elementsUI3() {
+		
+		System.out.println("Web Element UI Automation");
+		System.out.println("Web Element UI Automation3");
+
+
+		
+	}
 
 }
